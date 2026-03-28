@@ -1,0 +1,26 @@
+================================================================
+  MY OPEN SOURCE MANIFESTO
+  By: Yash Mehta (24BCE10638)
+  Generated: 28 March 2026 at 23:37
+================================================================
+
+  Every single day, I lean on Git. It’s a tool I never had to open a wallet for,
+  never had to ask some corporate admin for a seat-license to use, and—crucially—one
+  I can tear down to its last line of code whenever the mood strikes. That isn't just
+  a "feature"; it’s a massive shift in power. It exists only because a handful of
+  people decided that building in the open was more important than hoarding IP.
+
+  For me, software freedom is just another word for Sovereignty. Not the "lecture
+  hall" version, but the hands-on kind: the right to run, dissect, tweak, and pass it
+  on. The FSF’s four freedoms aren't just high-minded ideals—they’re the literal 
+  gear-work that keeps technical knowledge from rotting in a silo. Each and every
+  open-source technology we make use is living proof of that if I could contribute 
+  one thing to this enormous ecosystem it would be a decentralized, peer to peer 
+  learning platform. I’d drop it under the GPL v2 specifically to ensure that once
+  it’s out there, it stays out there—un-caged and available to anyone. Currently we
+  all stand on top of the shoulders of these giants and eventually you have to be the
+  shoulders for somebody else. That’s the environment I’m signing up for.
+
+----------------------------------------------------------------
+  Course: Open Source Software (NGMC) | VITyarthi 2026
+================================================================
